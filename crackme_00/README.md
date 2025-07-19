@@ -15,7 +15,7 @@ Ce défi est idéal pour se familiariser avec l’analyse statique, la désobfus
 - **Nom** : Jonathan
 - **Niveau** : 🔵 Débutant
 - **Système** : 🐧 Linux
-- **Langage** : [à adapter si besoin – C ? C++ ?]
+- **Langage** : Assembleur x64
 - **Architecture** : [x86_64 par défaut]
 - **Protections** :
   - Le flag est **chiffré**
